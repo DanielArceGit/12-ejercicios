@@ -23,9 +23,6 @@
 // cambiar color
 // ---------------------------------------------
 
-// variable
-    let colorSeleccionado = '';
-
 // funcion (cambiar color y agregar nuevos divs)
     function cambiarColorDivKey(event) {
     const tecla = event.key;
